@@ -9,9 +9,17 @@ img {
     left: 10px;
     top: 15px;
 }
-.raise {
+.language {
     position: relative;
     top: -15px;
+    margin-left: 20px;
+}
+.email {
+    position: relative;
+    top: -15px;
+    margin-left: 20px;
+    font: 14pt Calibri;
+    color: white;
 }
 div {
     display: inline;
