@@ -21,6 +21,14 @@ img {
     color: gray;
     margin: 15px;
 }
-div {
-    display: inline;
+.fullwidthimage  {
+    max-width:100%;
+    display: block;
+}
+.fullwidth .ui-collapsible-content {
+    padding: 0px !important;
+}
+.image
+{
+    width: 150px;
 }
