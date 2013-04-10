@@ -4,8 +4,15 @@ body {
 img {
     width: 100%;
 }
-div {
+.buttons {
     position: fixed;
     left: 10px;
     top: 15px;
+}
+.raise {
+    position: relative;
+    top: -15px;
+}
+div {
+    display: inline;
 }
