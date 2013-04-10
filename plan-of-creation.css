@@ -5,21 +5,21 @@ img {
     width: 100%;
 }
 .buttons {
-    position: fixed;
-    left: 10px;
-    top: 0px;
+    padding-left: 15px;
 }
 .peecho {
     position: relative;
     top: 15px;
+    line-height: 50px;
 }
 .language {
-    margin-left: 20px;
+    margin-left: 15px;
+    padding-bottom: 20px;
 }
 .email {
-    margin-left: 20px;
     font: 14pt Calibri;
-    color: white;
+    color: gray;
+    margin: 15px;
 }
 div {
     display: inline;
