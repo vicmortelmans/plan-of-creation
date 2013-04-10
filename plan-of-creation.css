@@ -7,16 +7,16 @@ img {
 .buttons {
     position: fixed;
     left: 10px;
+    top: 0px;
+}
+.peecho {
+    position: relative;
     top: 15px;
 }
 .language {
-    position: relative;
-    top: -15px;
     margin-left: 20px;
 }
 .email {
-    position: relative;
-    top: -15px;
     margin-left: 20px;
     font: 14pt Calibri;
     color: white;
