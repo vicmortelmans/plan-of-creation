@@ -1,8 +1,11 @@
+body {
+    margin: 0px;
+}
 img {
     width: 100%;
 }
 div {
     position: fixed;
-    left: 100px;
-    top: 150px;
+    left: 10px;
+    top: 15px;
 }
